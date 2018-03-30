@@ -11,4 +11,5 @@ class PraiseButton {
     onChange() {}
 
 }
+
 export default PraiseButton;

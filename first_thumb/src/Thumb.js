@@ -17,10 +17,7 @@ class Thumb extends PraiseButton {
     onChange(num) {
         this.numTipNode.find('span').text(num);
     }
-
-
-
-
 }
 
 export default Thumb;
+
